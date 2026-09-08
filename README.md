@@ -1,120 +1,129 @@
 <div align="center">
 
-# Ahmed Elsayed 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ahmed%20Elsayed&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast%20%E2%80%A2%20AI%20Builder&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### Full-Stack Developer · UI/UX Enthusiast · AI Builder
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences+%F0%9F%9A%80;Designing+clean+and+intuitive+UI%2FUX+%F0%9F%8E%A8;Building+with+Next.js+and+React+%E2%9A%A1;Exploring+AI-powered+products+%F0%9F%A4%96;Turning+ideas+into+real+products+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-Building digital experiences that matter — from modern interfaces to scalable backend systems and AI-powered products.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-111827?style=for-the-badge)](https://ahmedbenelsayed.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-111827?style=for-the-badge)](https://ahmedbenelsayed.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmed--Ben--Elsayed-181717?style=for-the-badge&logo=github)](https://github.com/Ahmed-Ben-Elsayed)
 
 </div>
 
 ---
 
+<img align="right" width="320" src="https://github.com/Ahmed-Ben-Elsayed/Ahmed-Ben-Elsayed/blob/main/assets/developer.gif" alt="Developer animation"/>
+
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with hands-on experience building backend-driven web applications and AI-powered systems.
+I'm a **Full-Stack Developer** passionate about creating polished digital experiences.
 
-I work across the entire product journey:
+I enjoy taking a product from the first idea all the way to deployment.
 
-**Idea → UI/UX → Frontend → Backend → Database → AI → Deployment**
+### My workflow
 
-- 🎨 Designing modern, intuitive and responsive interfaces
-- ⚡ Building scalable web applications
-- 🔗 Designing and integrating REST APIs
-- 🗄️ Working with databases and application architecture
-- 🤖 Building AI-powered systems using RAG and vector search
-- 🚀 Turning ideas into real products
+> 💡 **Idea** → 🎨 **UI/UX** → ⚛️ **Frontend** → ⚙️ **Backend** → 🗄️ **Database** → 🤖 **AI** → 🚀 **Deployment**
 
----
+- 🎨 Designing modern and intuitive interfaces
+- ⚡ Building fast and responsive web applications
+- 🔗 Developing REST APIs and backend systems
+- 🗄️ Designing databases and application architecture
+- 🤖 Building AI-powered experiences
+- 🚀 Shipping real products
 
-# 🛠️ Technical Skills
-
-## 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**HTML · CSS · JavaScript · Tailwind CSS · React.js · Next.js · Vite**
+<br clear="both"/>
 
 ---
 
-## ⚙️ Backend
+# 🛠️ Tech Universe
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-![API](https://img.shields.io/badge/API_Design-6E40C9?style=for-the-badge)
+<div align="center">
 
-**Node.js · Express.js · REST APIs · API Design**
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+
+<br/><br/>
+
+### 🔧 Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,figma,vercel" />
+
+</div>
 
 ---
 
-## 🗄️ Databases & Data
+# 🤖 AI Engineering
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-**MongoDB · PostgreSQL · Prisma · Database Schema Design**
-
----
-
-## 🤖 AI Engineering
+<div align="center">
 
 ![RAG](https://img.shields.io/badge/RAG_Architecture-7C3AED?style=for-the-badge)
-![Vector](https://img.shields.io/badge/Vector_Search-2563EB?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-2563EB?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-059669?style=for-the-badge)
-![Prompt](https://img.shields.io/badge/Prompt_Engineering-F97316?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F97316?style=for-the-badge)
 
-**RAG Architecture · Vector Search · Embeddings · Prompt Engineering · AI Safety & Response Control · Controlled Prompt Execution**
+</div>
 
----
-
-## 🔧 DevOps & Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-
-**Git · GitHub · GitLab · Postman · VS Code · Vercel · Environment Variables & Config Management · Debugging & Error Handling**
+```
+🧠 RAG Architecture
+🔎 Vector Search
+📦 Embeddings
+💬 Prompt Engineering
+🛡️ AI Safety & Response Control
+⚙️ Controlled Prompt Execution
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/Ahmed-Ben-Elsayed/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Ben-Elsayed&repo=Portfolio&hide_border=true" />
+</a>
+
+</div>
 
 ### 🌐 Portfolio
 
-My personal portfolio showcasing my projects, experience and technical skills.
+A personal portfolio showcasing my projects, skills and development journey.
 
-**Stack:** React.js · Vite · JavaScript
+**React.js · Vite · JavaScript · UI/UX**
 
 🔗 [Repository](https://github.com/Ahmed-Ben-Elsayed/Portfolio) · [Live Website](https://ahmedbenelsayed.vercel.app/)
 
 ---
 
-### 🤖 AI-Powered Legal Platform
+### ⚖️ AI-Powered Legal Platform
 
-Currently working on an AI-powered legal education platform.
+Building a modern AI-powered legal education experience.
 
-The project focuses on:
+**Focus:**
 
-- RAG pipelines
-- Vector search
-- Embeddings
-- Backend architecture
-- Controlled prompt execution
-- AI safety and response control
+```
+RAG Pipelines
+Vector Search
+Embeddings
+Backend Architecture
+AI Safety
+Controlled AI Responses
+```
 
 ---
 
@@ -122,11 +131,11 @@ The project focuses on:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ben-Elsayed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ben-Elsayed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ben-Elsayed&layout=compact&hide_border=true&langs_count=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ben-Elsayed&layout=compact&hide_border=true&langs_count=10" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Ahmed-Ben-Elsayed&hide_border=true" />
 
@@ -134,23 +143,44 @@ The project focuses on:
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Currently Building
 
-```
-🎨 Creating better UI/UX
-⚡ Building scalable web applications
-🤖 Developing AI-powered products
-🚀 Turning ideas into real experiences
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=500&center=true&vCenter=true&width=700&lines=%F0%9F%8E%A8+Better+UI%2FUX;%E2%9A%A1+Scalable+Web+Applications;%F0%9F%A4%96+AI-Powered+Products;%F0%9F%9A%80+Ideas+Into+Reality" />
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ahmed-Ben-Elsayed/Ahmed-Ben-Elsayed/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> 🐍 The snake animation will become active automatically after adding the GitHub Actions workflow.
 
 ---
 
 <div align="center">
 
-### Let's build something meaningful. 🚀
+## Let's build something meaningful. 🚀
 
-[🌐 Portfolio](https://ahmedbenelsayed.vercel.app/) · [💻 GitHub](https://github.com/Ahmed-Ben-Elsayed)
+<a href="https://ahmedbenelsayed.vercel.app/">🌐 Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Ahmed-Ben-Elsayed">💻 GitHub</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ahmed-Ben-Elsayed&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
 
 <sub>Design with intention · Build with purpose · Ship with confidence</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
